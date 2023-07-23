@@ -6,9 +6,9 @@ This organization contains several repositories related to the MArEX initiative 
 Documentation for [MArEX](https://github.com/MArEX-nTOF) can be found at []().
 
 ## Datasets
-Datasets developed for MArEX studies can be found at the corresponding [OSF site]().
+Datasets developed for MArEX studies can be found at the corresponding [OSF site](https://osf.io/rfsbt/?view_only=91a3eb8ca2ee4fbc8ccbebcf5adc2b59).
 
-[![OSF data](https://img.shields.io/badge/OSF-DOI%2010.17605%2FOSF.IO%38ZCK-orange)]()
+[![OSF data](https://img.shields.io/badge/OSF-DOI%2010.17605%2FOSF.IO%38ZCK-orange)](https://osf.io/rfsbt/?view_only=91a3eb8ca2ee4fbc8ccbebcf5adc2b59)
 
 #### MArEX Team
 Alberto Mengoni, (n_TOF Spokesperson) n_TOF [],
